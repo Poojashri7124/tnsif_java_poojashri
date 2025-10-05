@@ -11,7 +11,6 @@ public class FinalDemo {
         FinalDemo fd = new FinalDemo();
         fd.display();
 
-        // fd.Var = 200; // ❌ Not allowed because Var is final
-        // Uncommenting the above line will cause a compile-time error
+        
     }
 }
